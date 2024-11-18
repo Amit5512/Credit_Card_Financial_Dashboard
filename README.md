@@ -1,4 +1,17 @@
 # Credit_Card_Financial_Dashboard
+
+Descriptions :-
+
+Credit Card Financial Dashboard
+Tools Used: Microsoft Excel, Power BI
+Designed an interactive Power BI dashboard using customer transaction data to analyze credit card financial trends. This dashboard:
+
+Offers real-time insights by monitoring key metrics across quarterly trends.
+Streamlines data analysis for actionable business insights.
+Enables stakeholders to make informed decisions with enhanced data visibility.
+
+
+
 SQL Query
 -- SQL Query to create and import data from csv files:
 
